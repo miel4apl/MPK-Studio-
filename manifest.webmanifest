@@ -1,0 +1,9 @@
+{
+  "name": "MPK Studio",
+  "short_name": "MPK Studio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101218",
+  "theme_color": "#101218",
+  "icons": []
+}
